@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cocoon-privacy</string>
+    <string name="title_activity_main">cocoon-privacy</string>
+    <string name="package_name">com.marinescudan.cocoon_privacyy</string>
+    <string name="custom_url_scheme">com.marinescudan.cocoon_privacyy</string>
+</resources>
